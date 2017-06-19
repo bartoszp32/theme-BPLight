@@ -1,0 +1,15 @@
+{
+	"name": "theme-BPLight",
+	"version": "0.1.0",
+	"publisher": "vscode",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "BPLight",
+				"uiTheme": "vs",
+				"path": "./themes/BpLight.tmTheme"
+			}
+		]
+	}
+}
