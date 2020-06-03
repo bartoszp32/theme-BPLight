@@ -1,14 +1,19 @@
 {
-	"name": "theme-BPLight",
-	"version": "0.1.0",
+	"name": "theme-bplight-new",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "1.0.0",
 	"publisher": "vscode",
-	"engines": { "vscode": "*" },
+	"license": "MIT",
+	"engines": {
+		"vscode": "*"
+	},
 	"contributes": {
 		"themes": [
 			{
-				"label": "BPLight",
+				"label": "BP Light New",
 				"uiTheme": "vs",
-				"path": "./themes/BpLight.tmTheme"
+				"path": "./themes/bplight-color-theme.json"
 			}
 		]
 	}
